@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/adrianoazevedo">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
     <img src="https://skillicons.dev/icons?i=java,spring,kotlin,angular,docker,postgres,mysql,mongodb,bootstrap,git,github,html,css,js,idea,php,jenkins,kafka&theme=dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoazevedo&layout=compact"/>
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoazevedo&layout=compact"/>-->
   </a>
 </p>
 
