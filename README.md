@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/adrianoazevedo">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-    <img src="https://skillicons.dev/icons?i=java, kotlin,php,js,spring,angular,bootstrap,postgres,mysql,mssql,mongodb,docker,jenkins,ansibel,git,github,html,css,idea,kafka,superset,selenium,zanata&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,php,js,spring,angular,bootstrap,postgres,mysql,mssql,mongodb,docker,jenkins,ansibel,git,github,html,css,idea,kafka,superset,selenium,zanata&theme=dark"/>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoazevedo&layout=compact"/>-->
   </a>
 </p>
